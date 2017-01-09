@@ -157,11 +157,17 @@ header .header-content .header-content-inner p {
     background: url('../images/cie.png');
     }
         
-.item-1,
-.item-2,
+.item-1{
+    background-size: contain;
+    background-position: 50% 50%;
+    }
+.item-2{
+    background-size: auto;
+    background-position: 50% 50%;
+    }
 .item-3 {
     background-size: cover;
-    background-position: 30% 30%;
+    background-position: 50% 50%;
     }
 
 .page-footer {

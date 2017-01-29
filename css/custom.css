@@ -221,7 +221,7 @@ header .header-content .header-content-inner p {
 
 .navbar-default .nav > li>a,
 .navbar-default .nav>li>a:focus {
-    color: #222;
+    color: yellowgreen;
 }
 
 .navbar-default .nav > li>a:hover,

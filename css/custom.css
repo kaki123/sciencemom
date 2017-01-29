@@ -159,8 +159,9 @@ header .header-content .header-content-inner p {
     }
         
 .item-1{
-    background-size: contain;
-    /*background-position: 50% 50%;*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
     }
 .item-2{
     max-width:100%;
@@ -237,12 +238,12 @@ header .header-content .header-content-inner p {
 
 .navbar-default .nav > li.active>a:hover,
 .navbar-default .nav>li.active>a:focus:hover {
-    background-color: transparent;
+    background-color: lightgreen;
 }
 
 @media(min-width:768px) {
     .navbar-default {
-        border-color: rgba(255,255,255,.3);
+        border-color: rgba(255,255,255,1);
         background-color: transparent;
     }
 
@@ -258,7 +259,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default .nav > li>a,
     .navbar-default .nav>li>a:focus {
-        color: rgba(255,255,255,.7);
+        color: rgba(255,255,255,1);
     }
 
     .navbar-default .nav > li>a:hover,

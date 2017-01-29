@@ -134,11 +134,11 @@ header .header-content .header-content-inner p {
     text-align: center;
 }
 
-.promo-item {
+/*.promo-item:hover {
     background-size: 110%; 
     border: 10px solid rgba(255,255,255,0.3);
     line-height: 160px;
-}
+}*/
 
 .promo-item h3 {
     font-size: 40px;

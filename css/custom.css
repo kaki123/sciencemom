@@ -160,7 +160,7 @@ header .header-content .header-content-inner p {
         
 .item-1{
     background-size: contain;
-    background-position: 50% 50%;
+    /*background-position: 50% 50%;*/
     }
 .item-2{
     background-size: auto;

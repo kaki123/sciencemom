@@ -159,8 +159,9 @@ header .header-content .header-content-inner p {
     }
         
 .item-1{
-    background-size: contain;
-    /*background-position: 50% 50%;*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
     }
 .item-2{
     max-width:100%;

@@ -4645,7 +4645,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
-  color: blue;
+  color: white;
   background-color: transparent;
 }
 .navbar-inverse .navbar-text {
@@ -4688,7 +4688,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  color: blue;
+  color: lightblue;
   background-color: #080808;
 }
 @media (max-width: 767px) {

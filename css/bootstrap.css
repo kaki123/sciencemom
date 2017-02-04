@@ -595,7 +595,7 @@ th {
   content: "\e103";
 }
 .glyphicon-fire:before {
-  content: "images/heart.png";
+  content: "whiteheart.png";
 }
 .glyphicon-eye-open:before {
   content: "\e105";

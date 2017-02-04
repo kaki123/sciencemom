@@ -246,7 +246,7 @@ header .header-content .header-content-inner p {
 
 @media(min-width:768px) {
     .navbar-default {
-        border-color: rgba(255,255,255,1);
+        border-color: rgba(255,255,255,.5);
         background-color: lightblue;
     }
 
@@ -267,7 +267,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default .nav > li>a:hover,
     .navbar-default .nav>li>a:focus:hover {
-        color: lightblue;
+        color: blue;
     }
 
     .navbar-default.affix {

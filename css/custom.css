@@ -11,13 +11,7 @@ a {
     -moz-transition: all .35s;
     transition: all .35s;
 }
-.rotate90 {
-    -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
-}
+
 
 a:hover,
 a:focus {
@@ -122,6 +116,13 @@ header .header-content .header-content-inner p {
     text-align: center;
     background-color: #013d0c;
     color: #fff;
+}
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
 }
 
 .promo,

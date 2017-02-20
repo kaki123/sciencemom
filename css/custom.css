@@ -38,6 +38,20 @@ header {
     -o-background-size: cover;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 header .header-content {
     position: relative;
     width: 100%;
@@ -108,7 +122,7 @@ header .header-content .header-content-inner p {
 
 .content {
     padding: 100px 0;
-   
+
 }
 
 .content-2 {

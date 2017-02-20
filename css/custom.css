@@ -108,11 +108,13 @@ header .header-content .header-content-inner p {
 
 .content {
     padding: 100px 0;
+    text-align: center;
 }
 
 .content-2 {
     color: #fff;
     background-color: #222;
+    text-align: center;
 }
 
 .content-3 {

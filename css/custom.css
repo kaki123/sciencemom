@@ -30,7 +30,7 @@ header {
 
     text-align: center;
     color: #fff;
-    background-image: url('../images/boy.jpg');
+    background-image: url('../images/ya.jpg');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -40,24 +40,12 @@ header {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 header .header-content {
     position: relative;
     width: 100%;
     padding: 100px 15px 70px;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
 header .header-content .header-content-inner h1 {
